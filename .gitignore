@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Practice files made while doing lessons
+my_notes.txt
+hobbies.txt
+posts.json
+grades.json
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
